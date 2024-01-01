@@ -4,6 +4,7 @@ This project is a simulation of registering for a COVID-19 vaccine appointment. 
 
 ## Guide
 The application will prompt the following menu when started:
+'''
 Welcome to the COVID-19 Vaccine Reservation Scheduling Application!
  *** Please enter one of the following commands ***
 > create_patient <username> <password>
@@ -21,3 +22,4 @@ Welcome to the COVID-19 Vaccine Reservation Scheduling Application!
 > logout
 > help (see this menu again)
 > quit
+'''
